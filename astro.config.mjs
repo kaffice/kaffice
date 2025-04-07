@@ -8,6 +8,7 @@ export default defineConfig({
 	outDir: 'docs',
     base: '/kaffice',
     build: {
+		assets: 'astr',
         format: 'file',
     },
 	integrations: [
