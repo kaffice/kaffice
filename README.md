@@ -30,7 +30,7 @@ kaffice/
 
 1. 克隆项目
 ```bash
-git clone https://github.com/yourusername/kaffice.git
+git clone https://github.com/kaffice/kaffice.git
 cd kaffice
 ```
 
@@ -46,6 +46,11 @@ pnpm install
 3. 启动开发服务器
 ```bash
 pnpm run dev
+```
+
+4. 编译项目
+```bash
+pnpm run build
 ```
 
 ## 📖 文档访问
